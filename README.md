@@ -1,0 +1,1 @@
+# nice-sequelize-logger
