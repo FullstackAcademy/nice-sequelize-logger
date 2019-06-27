@@ -1,0 +1,16 @@
+{
+  "name": "nice-sequelize-logger",
+  "version": "1.0.0",
+  "description": "A nice sequelize logger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fullstack Academy Academics Team <academics@fullstackacademy.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-highlight": "^2.1.1",
+    "sql-formatter": "^2.3.3"
+  }
+}
